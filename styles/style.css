@@ -1,0 +1,46 @@
+
+html {
+    font-size: 10px;
+    font-family: Kdam Thmor Pro, sans-serif; /* css rule specify familly is google font*/
+    background-color: #e2fdfb;
+    
+}
+
+h1 {
+    margin: 0;
+padding: 20px 0;
+color: #648280;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 4px 3px 2px black;
+    margin-bottom: 50px;
+}
+
+p, li {
+    font-size: 16px;
+line-height: 2;
+letter-spacing: 1px;
+}
+
+img {
+    height: 500px;
+    width: 500px;
+    border: none;
+    padding: 0;
+    border-radius: 40%;
+    display: block;
+    margin-left: 20px;
+    margin-top: -180px;
+}
+
+ul {
+margin-left: 59%;
+}
+body {
+    width: 900px;;
+    margin: 0 auto;
+    padding: 0px 20px 20px 20px ;
+    border:groove black;
+    align-items: center;
+    background-color: #eff6f5;
+}
